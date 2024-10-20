@@ -6,6 +6,6 @@ categories: Big Data
 tags: [big data, intro]
 ---
 
-## Introductory Post
+## Discussion 1 Summary
 
-Discussion post will go here
+The initial discussion forum focused on critically evaluating the Internet of Things (IoT), with particular focus on the opportunities, limitations, risks and challenges associated with such a large-scale process of data collection.
